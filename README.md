@@ -62,8 +62,8 @@ This will start the Flask server on `http://127.0.0.1:5000/`. The API is now rea
 
 	| key | type | Required |
 	|----|----|----|
-	| first_file | file | Required
-	| second_file | file | Required
+	| first_file | file(vtt) | Required
+	| second_file | file(vtt) | Required
 
 ### How to Use
 
