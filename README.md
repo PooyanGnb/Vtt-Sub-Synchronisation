@@ -71,7 +71,7 @@ This will start the Flask server on `http://127.0.0.1:5000/`. The API is now rea
 
 2. **Use a Tool Like Postman**:
    - Set the method to `POST`.
-   - Set the URL to `http://127.0.0.1:5000/api/upload`.
+   - Set the URL to `http://127.0.0.1:5000/sync`.
    - In the Body section, switch to form-data.
    - Add two files with the keys `first_file` and `second_file`.
    - Send the request.
